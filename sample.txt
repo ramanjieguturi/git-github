@@ -1,3 +1,2 @@
 Hi hello how r u..
-this is the new file..
-in this file we all are using git
+this is the new file
